@@ -1,9 +1,13 @@
 <div align="center">
 	<img width="500" src="media/awesome-solon.gif" alt="Awesome">
+    <p>
+        <sup>
+            A curated list of awesome things related to Solon.
+        </sup>
+    </p>
 </div>
 
 ---
-A curated list of awesome things related to Solon.
 
 ## Contents
 
