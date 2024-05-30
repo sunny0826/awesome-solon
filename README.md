@@ -74,7 +74,7 @@
 - [ServerBoss](https://github.com/nxinghai/serverboss-tauri) - Linux 连接工具、服务器管理工具，官网：<https://serverboss.nyawei.cn>
 - [Easy-Browser](https://gitee.com/fhs-opensource/easy-browser) - 可定制浏览器，Java 开源可二次开发的 Chromium 内核浏览器
 - [ClassFinal](https://gitee.com/lcm742320521/class-final) - 加密工具，Java Class 文件安全加密工具
-- [Dromara/Solon-Plugins] - 扩展插件仓库，第三方插件仓库
+- [Dromara/Solon-Plugins](https://gitee.com/dromara/solon-plugins) - 扩展插件仓库，第三方插件仓库
 
 #### 伴生开源项目
 
